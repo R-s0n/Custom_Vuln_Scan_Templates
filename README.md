@@ -1,0 +1,1 @@
+# Custom vulnerability scanning templates
